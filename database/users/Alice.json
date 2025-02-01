@@ -1,0 +1,12 @@
+{
+	"Name": "Alice",
+	"Age": 29,
+	"Contact": "8789674123",
+	"Company": "TechFlow",
+	"Address": {
+		"City": "San Francisco",
+		"State": "California",
+		"Country": "USA",
+		"Pincode": 94105
+	}
+}

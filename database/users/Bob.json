@@ -1,0 +1,12 @@
+{
+	"Name": "Bob",
+	"Age": 35,
+	"Contact": "9078563412",
+	"Company": "DataCorp",
+	"Address": {
+		"City": "New York",
+		"State": "New York",
+		"Country": "USA",
+		"Pincode": 10001
+	}
+}
