@@ -13,8 +13,8 @@ This project is a simple file-based database written in Golang that allows stori
 ## Installation
 Ensure you have Go installed on your system. Then, clone this repository:
 ```sh
-git clone https://github.com/asmit990/ruktxplorer.git
-cd ruktxplorer
+git clone https://github.com/asmit990/GOLANG_DATABASE.git
+cd GOLANG_DATABASE
 ```
 
 ## Usage
